@@ -416,10 +416,10 @@ Este roteiro oferece uma imersão profunda em uma das regiões mais ricas da It�
 # novas Peguntas:
 
 ## Pergunta 5:
-We received a cost forecast from a Turism agence. below you are the document we received:
-Com base no orçamento de viagem fornecido pela CVC, realizei uma análise detalhada dos itens para oferecer uma avaliação completa e alguns pontos de atenção importantes.
+We received a cost forecast from a tourism agency. Below you will find the document we received:
 
 ## Resposta: 
+Com base no orçamento de viagem fornecido pela CVC, realizei uma análise detalhada dos itens para oferecer uma avaliação completa e alguns pontos de atenção importantes.
 
 ### Análise Detalhada do Orçamento
 
@@ -454,12 +454,12 @@ O roteiro sugerido pelas reservas de hotel é: **Milão -> Veneza (Alemanha, na 
 
 ### **Recomendações e Próximos Passos**
 
-1.  **Contato Urgente com a CVC:** A primeira e mais importante ação é contatar a vendedora Tryanda para **corrigir a reserva do hotel "Pension Im Glück Thale/harz"**. Solicite a troca por uma opção viável em Veneza ou Veneza Mestre, mantendo o mesmo padrão de qualidade e custo, se possível.
+1.  **Contato Urgente com a CVC:** A primeira e mais importante ação é contatar o  vendedor para **corrigir a reserva do hotel "Pension Im Glück Thale/harz"**. Solicite a troca por uma opção viável em Veneza ou Veneza Mestre, mantendo o mesmo padrão de qualidade e custo, se possível.
 2.  **Orçar o Transporte Interno:** Peça à agência para incluir no orçamento o custo dos trechos de trem entre as cidades. Comprar com antecedência pode garantir preços melhores.
 3.  **Avaliar Custo-Benefício:** O valor total de R$ 44.170,07 (sem os trens) para 17 noites na Itália para duas pessoas em setembro (ainda considerado alta temporada) deve ser avaliado. Compare com outras opções e com os roteiros que sugeri anteriormente para verificar se o pacote oferecido pela CVC está alinhado com suas expectativas de custo-benefício.
 4.  **Taxas Locais:** Lembre-se que, como informado no próprio orçamento, taxas turísticas locais ("city tax" ou "tassa di soggiorno") não estão incluídas e devem ser pagas diretamente nos hotéis.
 
-Em resumo, o orçamento apresenta uma base sólida com voos diretos e seguro adequado, mas contém um erro crítico na reserva de hotel que compromete todo o planejamento da viagem. Após a correção deste ponto, será possível ter uma visão clara e correta do pacote.  
+Em resumo, o orçamento apresenta uma base sólida com voos diretos e seguro adequado, mas contém um erro na reserva de hotel que compromete o planejamento da viagem. Após a correção deste ponto, será possível ter uma visão clara e correta do pacote.  
 
 ---  
 
@@ -471,7 +471,7 @@ In addition the agence brocks down the cost in these itens: ( in $R   reais)
  
 Corrija os problemas desse plano de viagem e faça sugestões de como reduzir os custos mas oferecendo um bom padrão de esperiência para essa viagem.
 Como produto final desejamos um plano completo nos moldes dos planos que vc enviou anteriormente, e com um item no final descrevendo todas as possiveis oportunidades para redução dos custos sem perder a qualidade da experiencia turística. 
-Outro ponto que gostaria de ser levado em conta é a não necessidade voltar para Roma no dia do retorno ao Brasil. Que retorno ocorra da ultima cidade visitada ou mesmo de um local bem próximo da mesma.
+Outro ponto que gostaria de ser levado em conta é a não necessidade voltar para Roma no dia do retorno ao Brasil. Que o retorno ocorra da ultima cidade visitada ou mesmo de um local bem próximo da mesma.
 
 ## Resposta:  
 
