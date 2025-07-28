@@ -310,7 +310,7 @@ Esta é uma taxa municipal cobrada por pessoa, por noite, e paga diretamente na 
 ---  
 
 ## Pergunta 12:
-òtimo. Mas lendo agira este ultimo roteiro que revisou, gostaria de fazer mais um pegueno ajuste nas divisóes dos dias nas duas cidades.
+Ótimo. Mas lendo agira este ultimo roteiro que revisou, gostaria de fazer mais um pegueno ajuste nas divisóes dos dias nas duas cidades.
 Em vez de 5  em roma, 6 em Mestre e 4 em Roma no final. gostariamos de redistribuir em 6 6 4)
 
 ## Resposta:
