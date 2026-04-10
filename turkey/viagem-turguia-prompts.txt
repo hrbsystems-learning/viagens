@@ -1,0 +1,13 @@
+
+Prompt 1:
+Como um agente de turismo especializado em roteiros de viagens para a Turguia, escreva ótimas opções para uma viagem para Turquia, sequindo as diretivas abaixo:
+1. Duração da Viagem: de 28/08/2026 a 11/09/2026
+2. Resevar um dia apenas para a viagem de Ida  e outro para a de volta.
+3. Deve cobrir as principais cidades e locais turísticos. Aprovitar ao máximo o que cada uma pode oferecer (incluindo gastromia).
+4. Transporte aéreo do Brasil para Istambul e respectiva volta.
+6. Transporte entre cidades (Não queremos alugar carros) definir modalidades de transportes de fácil acesso e econômicas para cada caso.
+7. Hoteis limpos com boas avaliações (usaremos mais para passar as noites).
+
+Prompt 2:
+
+revisar o roteiro 1 considerando o retono no dia 12/09/2026
