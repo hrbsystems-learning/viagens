@@ -10,4 +10,3 @@ Como um agente de turismo especializado em roteiros de viagens para a Turguia, e
 
 Prompt 2:
 
-revisar o roteiro 1 considerando o retono no dia 12/09/2026

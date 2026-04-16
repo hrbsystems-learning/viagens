@@ -89,3 +89,106 @@ Esta versão revisada contempla o retorno no dia **12/09/2026**, adicionando um 
 *   **Reserva de Imprevistos:** Limite de crédito de pelo menos **R$ 5.000** em cartão brasileiro.
 
 **Dica Final:** Com o retorno no dia 12/09, você terá a sexta-feira (11/09) inteira em Istambul, que é um dia vibrante na cidade. Aproveite para visitar o Mercado de Especiarias e fazer um cruzeiro de despedida pelo Bósforo ao entardecer.
+
+---
+
+### 🏨 Logística de Check-in e Check-out (Gestão de Tempo)
+
+Para garantir deslocamentos tranquilos e tempo confortável para os transfers, sugerimos a seguinte organização:
+
+1.  **Istambul (Primeira Estadia):**
+    *   **Check-in:** 28/08 (Chegada do Brasil).
+    *   **Check-out:** 02/09 (Até às 09:00/10:00).
+    *   *Transição:* Tempo confortável para chegar ao aeroporto (IST/SAW) e voar para a Capadócia.
+
+2.  **Capadócia:**
+    *   **Check-in:** 02/09 (A partir das 14:00 - Malas podem ser deixadas antes).
+    *   **Check-out:** 06/09 (Pela manhã).
+    *   *Transição:* Organize o transfer para o aeroporto (NAV/ASR) com antecedência para o voo rumo a Izmir.
+
+3.  **Selçuk (Éfeso):**
+    *   **Check-in:** 06/09 (Tarde - Após transfer de Izmir).
+    *   **Check-out:** 08/09 (Até às 11:00).
+    *   *Transição:* Saída estratégica para pegar o ônibus rumo a Pamukkale e aproveitar o final da tarde no "Castelo de Algodão".
+
+4.  **Pamukkale:**
+    *   **Check-in:** 08/09 (Tarde).
+    *   **Check-out:** 09/09 (Check-out normal às 12:00, mas malas ficam no hotel).
+    *   *Transição:* Dia livre em Pamukkale/Hierápolis. Siga para o aeroporto de Denizli (DNZ) no fim da tarde para o voo de volta a Istambul.
+
+5.  **Istambul (Retorno Final):**
+    *   **Check-in:** 09/09 (Noite - Vindo de Denizli).
+    *   **Check-out:** 12/09 (Manhã).
+    *   *Transição:* Último café da manhã turco e deslocamento final para o aeroporto para o voo de retorno ao Brasil.
+
+---
+
+### 🚀 Janelas Sugeridas para Reservas de Transfer (Alinhadas com Hotéis)
+
+Para otimizar o tempo e evitar esperas longas com malas, busque passagens nestes intervalos:
+
+1.  **02/09 - Voo Istambul ➔ Capadócia:** 
+    *   **Janela Ideal:** Entre **11:00 e 13:30**.
+    *   *Motivo:* Permite fazer o check-out em Istambul às 09:00 e chegar na Capadócia a tempo do check-in (14:00/15:00).
+
+2.  **06/09 - Voo Capadócia ➔ Izmir:** 
+    *   **Janela Ideal:** Entre **09:00 e 11:30**.
+    *   *Motivo:* Chegando em Izmir até o meio-dia, você consegue pegar o trem/ônibus para Selçuk e fazer o check-in no hotel ainda à tarde, com tempo para caminhar pela vila.
+
+3.  **08/09 - Ônibus Selçuk ➔ Pamukkale:** 
+    *   **Janela Ideal:** Entre **11:30 e 13:00**.
+    *   *Motivo:* Sai logo após o check-out em Selçuk. Como a viagem dura ~3h, você chega em Pamukkale para o check-in e ainda aproveita o final de tarde nas piscinas térmicas.
+
+4.  **09/09 - Voo Denizli (Pamukkale) ➔ Istambul:** 
+    *   **Janela Ideal:** Entre **19:00 e 21:00**.
+    *   *Motivo:* Permite que você aproveite o dia inteiro no complexo de Pamukkale/Hierápolis após o check-out (12:00), seguindo para o aeroporto apenas no final do dia.
+
+5.  **12/09 - Voo Istambul ➔ Brasil:** 
+    *   **Janela Ideal:** Conforme disponibilidade da passagem internacional.
+    *   *Dica:* Se o voo for noturno, aproveite o serviço de "luggage storage" do hotel após o check-out matinal para as últimas compras.
+
+---
+
+### 🔄 Plano B: Alternativas e Mudanças de Interesse
+
+Se algum local estiver indisponível ou se o seu interesse mudar durante a viagem, aqui estão sugestões alternativas baseadas nos roteiros de luxo e "luxo inteligente":
+
+#### **Em Istambul:**
+*   **Se quiser modernidade:** Troque uma tarde nos bazares pelo **Galataport**. É o novo polo cultural e gastronômico à beira-mar, com arquitetura de vanguarda e ótimos restaurantes.
+*   **Se preferir luxo imperial recente:** Visite o **Palácio Dolmabahçe**. Diferente do Topkapi (mais antigo/medieval), o Dolmabahçe reflete a opulência europeia do século XIX com cristais e ouro.
+*   **Se quiser compras modernas:** Troque o Grand Bazaar pelos shoppings **Istinye Park** ou **Zorlu Center**, que reúnem as grandes marcas globais em ambientes modernos.
+*   **Se quiser evitar o trânsito:** Use o **Water Taxi** (táxi aquático) para se deslocar entre Sultanahmet e os bairros do Bósforo; é mais rápido e oferece a melhor vista da cidade.
+
+#### **Na Capadócia:**
+*   **Se preferir liberdade ao tour de van:** Explore os vales (como o **Red Valley** ou **Rose Valley**) através de **trilhas a pé**. É uma experiência mais imersiva e gratuita.
+*   **Se quiser uma noite especial:** Considere um **jantar privado em um vale** iluminado por tochas, uma experiência exclusiva do roteiro premium.
+
+#### **Em Éfeso (Selçuk):**
+*   **Se quiser mais história:** Se terminar as ruínas de Éfeso cedo, visite a **Casa da Virgem Maria** ou a **Basílica de São João**, ambos muito próximos a Selçuk.
+
+#### **Dica de Flexibilidade:**
+Caso prefira mais conforto em vez de economia no trecho Selçuk/Pamukkale, você pode trocar o ônibus de linha por um **transfer privado**. Isso economiza cerca de 1h30 de deslocamento total e oferece porta-a-porta entre os hotéis.
+
+---
+
+### 📍 Melhores Bairros para Hospedagem (Localização Estratégica)
+
+Para ficar o mais próximo possível das atrações e facilitar os deslocamentos, foque nestes bairros:
+
+1.  **Istambul (Primeira Etapa - Foco Histórico):**
+    *   **Sultanahmet:** É o coração da cidade antiga. Você estará a poucos passos da Santa Sofia, Mesquita Azul e Palácio Topkapi. Ideal para os primeiros 4 dias.
+    *   **Sirkezi/Eminönü:** Logo abaixo de Sultanahmet, oferece melhor acesso ao Tram (bonde) e às balsas do Bósforo.
+
+2.  **Istambul (Segunda Etapa - Retorno e Bósforo):**
+    *   **Karaköy / Galata:** O bairro mais vibrante e moderno. Excelente para o retorno (10/09 e 11/09), ficando perto da Torre de Galata, Galataport e da vida noturna de Istiklal.
+    *   **Kadıköy (Lado Asiático):** Se quiser uma experiência mais local e gastronômica, é a melhor escolha no lado oriental.
+
+3.  **Capadócia:**
+    *   **Göreme:** É o centro logístico e turístico. A maioria dos hotéis caverna icônicos está aqui, e você estará cercado pelas "chaminés de fada".
+    *   **Uçhisar:** Fica no ponto mais alto. Ótimo se você busca vistas panorâmicas e hotéis de padrão um pouco mais elevado/exclusivo.
+
+4.  **Selçuk (Éfeso):**
+    *   **Selçuk (Centro):** A cidade é pequena e charmosa. Ficar no centro permite ir a pé ao Museu de Éfeso, à Basílica de São João e pegar rapidamente o transporte para as ruínas principais.
+
+5.  **Pamukkale:**
+    *   **Pamukkale Village:** O vilarejo fica literalmente na base das montanhas de calcário. Escolha hotéis próximos à entrada inferior do parque para poder entrar a pé nas piscinas térmicas assim que abrir.
